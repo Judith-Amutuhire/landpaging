@@ -10,4 +10,9 @@
   .font-loader {
     font-family: 'Besley';
  }
- 
+ .bg-lightRed{
+  background-color: #ccb2b2;
+ }
+ .bg-greylight{
+  background-color: #b1a0a0;
+ }
